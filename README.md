@@ -9,9 +9,9 @@ targetSum of Integer, array of numbers and a memo map as arguments.
 
 # Complexity
 
-###Assume that:
-#####m = targetSum
-#####n = numbers array length
-###
-####Time Complexity is O( n * m )
-####Space Complexity is O( m )
+Assume that:
+m = targetSum
+n = numbers array length
+
+Time Complexity is O( n * m )
+Space Complexity is O( m )
